@@ -5,4 +5,4 @@ functions:
   openfaas-demo:
     lang: node
     handler: ./openfaas-demo
-    image: openfaas-demo:latest
+    image: marcpalm/openfaas-demo:latest
