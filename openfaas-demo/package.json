@@ -1,5 +1,5 @@
 {
-  "name": "openfaas",
+  "name": "openfaasy",
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
